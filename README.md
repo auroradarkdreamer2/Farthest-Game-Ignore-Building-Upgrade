@@ -1,0 +1,1 @@
+# Farthest-Game-Ignore-Building-Upgrade
